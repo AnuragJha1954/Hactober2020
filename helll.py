@@ -43,5 +43,9 @@ def my_function(x):
 mytxt = my_function("I wonder how this text looks like backwards")
 
 print(mytxt)
-
-
+#pritting patterns
+rows = 9
+for i in range(1, rows):
+    for j in range(-1+i, -1, -1):
+        print(format(2**j, "4d"), end=' ')
+    print("")
