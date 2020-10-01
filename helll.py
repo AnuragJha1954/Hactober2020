@@ -59,3 +59,9 @@ if num > 1:
 else:  
    print(num,"is not a prime number")
 
+#added a feature
+#a very great program by ISHIKA GUPTA
+
+inp = int(input("Enter your height"))
+
+print("Your height is",inp)
