@@ -29,3 +29,4 @@ Enter a list of 10 number in a single line
 1 1 3 1 2 1 1 6 5 1
 O/P -->
 Majority element is 1
+'''
